@@ -9,7 +9,7 @@
 
 
 <p>Get to know more about my profile...
-<br>Follow me on social media!
+<br>Follow me on social media! 😁
 </p>
 
 
