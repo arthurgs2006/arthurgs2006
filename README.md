@@ -4,7 +4,7 @@
 <div style="display: inline_block;" align="center">
 
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurgs2006&show_icons=true&theme=transparent)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgs2006&layout=compact)
 </div>
 
 
